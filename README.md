@@ -2,6 +2,7 @@
 
 ## 대구 교통사고 피해 예측 AI 경진대회
 대회 링크: https://dacon.io/competitions/official/236193/overview/description
+public score (148/1106)
 
 ![230102_BRANDNEWDAYS_sbppt pptx](https://github.com/user-attachments/assets/b8208e62-edf0-4d17-88f3-f10c082c0c4d)
 ![230102_BRANDNEWDAYS_sbppt pptx (1)](https://github.com/user-attachments/assets/a4b6a684-7f0b-485a-b4b0-e419ccf3f70b)
